@@ -1,0 +1,1 @@
+Writing data for hanzi animation comes from https://github.com/chanind/hanzi-writer-data by chanind'hanzi writer data. In order to enhance the performance of my app, not all the hanzi data are used in the project. Only 2418 commonly-used Chinese characters have been selected for the time being. This is a possibility to increase the amount in the future. 
